@@ -1,0 +1,12 @@
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\FarmSystem.Contract.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\FarmSystem.Contract.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\FarmSystem.Entities.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\EntityFramework.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\FarmSystem.Entities.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\FarmSystem.Entities.dll.config
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\bin\Debug\EntityFramework.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\obj\Debug\FarmSystem.Contract.csprojAssemblyReference.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\obj\Debug\FarmSystem.Contract.csproj.CoreCompileInputs.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\obj\Debug\FarmSystem.Contract.csproj.CopyComplete
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\obj\Debug\FarmSystem.Contract.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Contract\obj\Debug\FarmSystem.Contract.pdb

@@ -1,0 +1,14 @@
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Common.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Common.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Domain.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Entities.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\EntityFramework.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Domain.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Entities.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\FarmSystem.Entities.dll.config
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\bin\Debug\EntityFramework.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\obj\Debug\FarmSystem.Common.csprojAssemblyReference.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\obj\Debug\FarmSystem.Common.csproj.CoreCompileInputs.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\obj\Debug\FarmSystem.Common.csproj.CopyComplete
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\obj\Debug\FarmSystem.Common.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Common\obj\Debug\FarmSystem.Common.pdb

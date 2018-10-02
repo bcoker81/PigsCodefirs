@@ -1,0 +1,17 @@
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Repositories.dll.config
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Repositories.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Repositories.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\EntityFramework.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\EntityFramework.SqlServer.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Contract.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Entities.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Contract.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Entities.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\FarmSystem.Entities.dll.config
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\EntityFramework.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\bin\Debug\EntityFramework.SqlServer.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\obj\Debug\FarmSystem.Repositories.csprojAssemblyReference.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\obj\Debug\FarmSystem.Repositories.csproj.CoreCompileInputs.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\obj\Debug\FarmSystem.Repositories.csproj.CopyComplete
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\obj\Debug\FarmSystem.Repositories.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Repositories\obj\Debug\FarmSystem.Repositories.pdb

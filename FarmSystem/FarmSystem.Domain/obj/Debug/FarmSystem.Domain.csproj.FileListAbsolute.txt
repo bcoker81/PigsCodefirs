@@ -1,0 +1,6 @@
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\bin\Debug\FarmSystem.Domain.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\bin\Debug\FarmSystem.Domain.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\obj\Debug\FarmSystem.Domain.csprojAssemblyReference.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\obj\Debug\FarmSystem.Domain.csproj.CoreCompileInputs.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\obj\Debug\FarmSystem.Domain.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Domain\obj\Debug\FarmSystem.Domain.pdb

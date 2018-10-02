@@ -1,0 +1,14 @@
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\FarmSystem.Entities.dll.config
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\FarmSystem.Entities.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\FarmSystem.Entities.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\EntityFramework.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\EntityFramework.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.csproj.CoreCompileInputs.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.csproj.CopyComplete
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.dll
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.pdb
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.Migrations.initialDatabaseV1.resources
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.csproj.GenerateResource.cache
+C:\CokerGit\PigsCodefirs\FarmSystem\FarmSystem.Entities\obj\Debug\FarmSystem.Entities.csprojAssemblyReference.cache
